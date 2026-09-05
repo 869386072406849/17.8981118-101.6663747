@@ -1,4 +1,1194 @@
 # 17.8981118-101.6663747
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>resources</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><img width="20" height="20" srcset="//thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Wikimedia_Community_Logo_optimized.svg/40px-Wikimedia_Community_Logo_optimized.svg.png?utm_source=meta.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Wikimedia_Community_Logo_optimized.svg/20px-Wikimedia_Community_Logo_optimized.svg.png?utm_source=meta.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" alt=""> Core issues and </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><img alt="" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Wikimedia_Community_Logo_optimized.svg/20px-Wikimedia_Community_Logo_optimized.svg.png?utm_source=meta.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" width="20" height="20" srcset="//thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Wikimedia_Community_Logo_optimized.svg/40px-Wikimedia_Community_Logo_optimized.svg.png?utm_source=meta.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x">&nbsp;Wikimedia Foundation, Meta-Wiki, and its sister projects</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://meta.wikimedia.org/w/index.php?title=Special:Translate/page-Template:Main_Page/Wikimedia_Foundation&amp;language=en&amp;action=page">+/−</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The&nbsp;<a href="https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_Foundation">Wikimedia Foundation</a>&nbsp;is the overarching non-profit foundation that owns the&nbsp;<a href="https://meta.wikimedia.org/wiki/Special:MyLanguage/Wikimedia_servers">Wikimedia servers</a>&nbsp;along with the domain names,&nbsp;<a href="https://meta.wikimedia.org/wiki/Logo">logos</a>&nbsp;and&nbsp;<a href="https://meta.wikimedia.org/wiki/Wikimedia_trademarks">trademarks</a>&nbsp;of all&nbsp;<a href="https://meta.wikimedia.org/wiki/Special:MyLanguage/Complete_list_of_Wikimedia_projects">Wikimedia projects</a>&nbsp;and&nbsp;<a href="https://www.mediawiki.org/wiki/">MediaWiki</a>. Meta-Wiki is the coordination wiki for the various Wikimedia wikis.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://meta.wikimedia.org/w/index.php?title=Special:Translate/page-Template:Main_Page/Sisterprojects&amp;language=en&amp;action=page">+/−</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Content projects with single language editions</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"width":"40px","height":"auto","aspectRatio":"1.0810810810810811","linkDestination":"custom"} -->
+<figure class="wp-block-image is-resized"><a href="https://en.wikipedia.org/wiki/"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/40px-Wikipedia-logo-v2.svg.png?utm_source=meta.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" alt="" style="aspect-ratio:1.0810810810810811;width:40px;height:auto"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong><a href="https://en.wikipedia.org/wiki/">Wikipedia</a></strong><br>The free encyclopedia</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"width":"40px","height":"auto","aspectRatio":"1","linkDestination":"custom"} -->
+<figure class="wp-block-image is-resized"><a href="https://en.wiktionary.org/wiki/"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Wiktionary_small.svg/40px-Wiktionary_small.svg.png?utm_source=meta.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" alt="" style="aspect-ratio:1;width:40px;height:auto"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong><a href="https://en.wiktionary.org/wiki/">Wiktionary</a></strong><br>Free dictionary and thesaurus</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"width":"40px","height":"auto","aspectRatio":"1","linkDestination":"custom"} -->
+<figure class="wp-block-image is-resized"><a href="https://en.wikivoyage.org/wiki/"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Wikivoyage-Logo-v3-icon.svg/40px-Wikivoyage-Logo-v3-icon.svg.png?utm_source=meta.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" alt="" style="aspect-ratio:1;width:40px;height:auto"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong><a href="https://en.wikivoyage.org/wiki/">Wikivoyage</a></strong><br>Free travel guide</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"width":"34px","height":"auto","aspectRatio":"0.85","linkDestination":"custom"} -->
+<figure class="wp-block-image is-resized"><a href="https://en.wikiquote.org/wiki/"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/40px-Wikiquote-logo.svg.png?utm_source=meta.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" alt="" style="aspect-ratio:0.85;width:34px;height:auto"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong><a href="https://en.wikiquote.org/wiki/">Wikiquote</a></strong><br>Collection of quotations</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"width":"40px","height":"auto","aspectRatio":"1.2121212121212122","linkDestination":"custom"} -->
+<figure class="wp-block-image is-resized"><a href="https://en.wikiversity.org/wiki/Wikiversity:Main_Page"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Wikiversity_logo_2017.svg/40px-Wikiversity_logo_2017.svg.png?utm_source=meta.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" alt="" style="aspect-ratio:1.2121212121212122;width:40px;height:auto"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong><a href="https://en.wikiversity.org/wiki/Wikiversity:Main_Page">Wikiversity</a></strong><br>Free learning resources</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"width":"38px","height":"auto","aspectRatio":"0.95","linkDestination":"custom"} -->
+<figure class="wp-block-image is-resized"><a href="https://en.wikisource.org/wiki/"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/40px-Wikisource-logo.svg.png?utm_source=meta.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" alt="" style="aspect-ratio:0.95;width:38px;height:auto"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong><a href="https://en.wikisource.org/wiki/">Wikisource</a></strong><br>Free-content library</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"width":"40px","height":"auto","aspectRatio":"1","linkDestination":"custom"} -->
+<figure class="wp-block-image is-resized"><a href="https://en.wikibooks.org/wiki/"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/40px-Wikibooks-logo.svg.png?utm_source=meta.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" alt="" style="aspect-ratio:1;width:40px;height:auto"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong><a href="https://en.wikibooks.org/wiki/">Wikibooks</a></strong><br>Free textbooks and manuals</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Multilingual content projects</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"width":"30px","height":"auto","aspectRatio":"0.75","linkDestination":"custom"} -->
+<figure class="wp-block-image is-resized"><a href="https://commons.wikimedia.org/wiki/"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/40px-Commons-logo.svg.png?utm_source=meta.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" alt="" style="aspect-ratio:0.75;width:30px;height:auto"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong><a href="https://commons.wikimedia.org/wiki/">Wikimedia Commons</a></strong><br>Free media repository</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"width":"40px","height":"auto","aspectRatio":"1.8181818181818181","linkDestination":"custom"} -->
+<figure class="wp-block-image is-resized"><a href="https://www.wikidata.org/wiki/"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/40px-Wikidata-logo.svg.png?utm_source=meta.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" alt="" style="aspect-ratio:1.8181818181818181;width:40px;height:auto"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong><a href="https://www.wikidata.org/wiki/">Wikidata</a></strong><br>Free knowledge base</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"width":"34px","height":"auto","aspectRatio":"0.85","linkDestination":"custom"} -->
+<figure class="wp-block-image is-resized"><a href="https://species.wikimedia.org/wiki/Main_Page"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/40px-Wikispecies-logo.svg.png?utm_source=meta.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" alt="" style="aspect-ratio:0.85;width:34px;height:auto"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong><a href="https://species.wikimedia.org/wiki/Main_Page">Wikispecies</a></strong><br>Free directory of species</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"width":"32px","height":"auto","aspectRatio":"0.8","linkDestination":"custom"} -->
+<figure class="wp-block-image is-resized"><a href="https://incubator.wikimedia.org/wiki/Incubator:Main_Page/en"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Incubator-logo.svg/40px-Incubator-logo.svg.png?utm_source=meta.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" alt="" style="aspect-ratio:0.8;width:32px;height:auto"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong><a href="https://incubator.wikimedia.org/wiki/Incubator:Main_Page/en">Wikimedia Incubator</a></strong><br>For language versions in development</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"width":"40px","height":"auto","aspectRatio":"1","linkDestination":"custom"} -->
+<figure class="wp-block-image is-resized"><a href="https://www.wikifunctions.org/wiki/"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Wikifunctions-logo.svg/40px-Wikifunctions-logo.svg.png?utm_source=meta.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" alt="" style="aspect-ratio:1;width:40px;height:auto"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong><a href="https://www.wikifunctions.org/wiki/">Wikifunctions</a></strong><br>Free code repository</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Outreach and administration projects</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"width":"40px","height":"auto","aspectRatio":"1","linkDestination":"custom"} -->
+<figure class="wp-block-image is-resized"><a href="https://wikimediafoundation.org/"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/40px-Wikimedia-logo_black.svg.png?utm_source=meta.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" alt="" style="aspect-ratio:1;width:40px;height:auto"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong><a href="https://wikimediafoundation.org/">Wikimedia Foundation</a></strong><br>Foundation public relations</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"width":"40px","height":"auto","aspectRatio":"1","linkDestination":"custom"} -->
+<figure class="wp-block-image is-resized"><a href="https://outreach.wikimedia.org/wiki/"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Wikimedia_Outreach.svg/40px-Wikimedia_Outreach.svg.png?utm_source=meta.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" alt="" style="aspect-ratio:1;width:40px;height:auto"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong><a href="https://outreach.wikimedia.org/wiki/">Wikimedia Outreach</a></strong><br>Wikimedia outreach wiki</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"width":"33px","height":"auto","aspectRatio":"0.825","linkDestination":"custom"} -->
+<figure class="wp-block-image is-resized"><a href="https://wikimania.wikimedia.org/wiki/"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Wikimania.svg/40px-Wikimania.svg.png?utm_source=meta.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" alt="" style="aspect-ratio:0.825;width:33px;height:auto"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong><a href="https://wikimania.wikimedia.org/wiki/">Wikimania</a></strong><br>The International Conference</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"width":"40px","height":"auto","aspectRatio":"1","linkDestination":"custom"} -->
+<figure class="wp-block-image is-resized"><a href="https://lists.wikimedia.org/"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Wikimedia_Community_Logo-Mailservices.svg/40px-Wikimedia_Community_Logo-Mailservices.svg.png?utm_source=meta.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" alt="" style="aspect-ratio:1;width:40px;height:auto"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong><a href="https://lists.wikimedia.org/">Wikimedia Mailservices</a></strong><br>Wikimedia mailing lists</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"width":"40px","height":"auto","aspectRatio":"1","linkDestination":"custom"} -->
+<figure class="wp-block-image is-resized"><a href="https://stats.wikimedia.org/"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Nuvola_mimetypes_log.svg/40px-Nuvola_mimetypes_log.svg.png?utm_source=meta.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" alt="" style="aspect-ratio:1;width:40px;height:auto"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong><a href="https://stats.wikimedia.org/">Wikistats</a></strong><br>Wikimedia statistics</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Technical and development projects</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"width":"40px","height":"auto","aspectRatio":"1","linkDestination":"custom"} -->
+<figure class="wp-block-image is-resized"><a href="https://www.mediawiki.org/wiki/MediaWiki/en"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/MediaWiki-2020-icon.svg/40px-MediaWiki-2020-icon.svg.png?utm_source=meta.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" alt="" style="aspect-ratio:1;width:40px;height:auto"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong><a href="https://www.mediawiki.org/wiki/MediaWiki/en">MediaWiki</a></strong><br>MediaWiki software documentation</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"width":"31px","height":"auto","aspectRatio":"0.775","linkDestination":"custom"} -->
+<figure class="wp-block-image is-resized"><a href="https://enterprise.wikimedia.com/"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Wikimedia_Enterprise_squirrel.svg/40px-Wikimedia_Enterprise_squirrel.svg.png?utm_source=meta.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" alt="" style="aspect-ratio:0.775;width:31px;height:auto"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong><a href="https://enterprise.wikimedia.com/">Wikimedia Enterprise</a></strong><br>APIs for high volume use</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"width":"40px","height":"auto","aspectRatio":"1","linkDestination":"custom"} -->
+<figure class="wp-block-image is-resized"><a href="https://wikitech.wikimedia.org/wiki/"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Wikitech-2021-blue-icon.svg/40px-Wikitech-2021-blue-icon.svg.png?utm_source=meta.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" alt="" style="aspect-ratio:1;width:40px;height:auto"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong><a href="https://wikitech.wikimedia.org/wiki/">Wikitech</a></strong><br>Wikimedia technical documentation</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"width":"40px","height":"auto","aspectRatio":"1","linkDestination":"custom"} -->
+<figure class="wp-block-image is-resized"><a href="https://phabricator.wikimedia.org/"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Wikimedia_Phabricator_logo.svg/40px-Wikimedia_Phabricator_logo.svg.png?utm_source=meta.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" alt="" style="aspect-ratio:1;width:40px;height:auto"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong><a href="https://phabricator.wikimedia.org/">Phabricator</a></strong><br>Issue tracker and planning tool for software projects</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"width":"40px","height":"auto","aspectRatio":"1.0810810810810811","linkDestination":"custom"} -->
+<figure class="wp-block-image is-resized"><a href="https://test.wikipedia.org/wiki/"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Wikipedia_logo_v2_%28black%29.svg/40px-Wikipedia_logo_v2_%28black%29.svg.png?utm_source=meta.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" alt="" style="aspect-ratio:1.0810810810810811;width:40px;height:auto"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong><a href="https://test.wikipedia.org/wiki/">Test Wikipedia</a></strong><br>For testing software changes</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"width":"40px","height":"auto","aspectRatio":"1","linkDestination":"custom"} -->
+<figure class="wp-block-image is-resized"><a href="https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_introduction"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Wikimedia_Cloud_Services_logo.svg/40px-Wikimedia_Cloud_Services_logo.svg.png?utm_source=meta.wikimedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" alt="" style="aspect-ratio:1;width:40px;height:auto"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><strong><a href="https://wikitech.wikimedia.org/wiki/Help:Cloud_Services_introduction">Wikimedia Cloud Services</a></strong><br>Hosting environment for community managed software projects, tools, and data analysis</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Other languages:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/ace">Acèh</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/af">Afrikaans</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/gsw">Alemannisch</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/ay">Aymar aru</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/id">Bahasa Indonesia</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/ms">Bahasa Melayu</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/bjn">Banjar</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/ban">Basa Bali</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/bbc-latn">Batak Toba</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/bew">Betawi</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/bar">Boarisch</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/nan-latn-tailo">Bân-lâm-gí (Tâi-lô)</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/ceb">Cebuano</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/ny">Chi-Chewa</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/cy">Cymraeg</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/de">Deutsch</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/de-formal">Deutsch (Sie-Form)</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>English</strong></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/eo">Esperanto</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/fy">Frysk</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/ff">Fulfulde</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/ga">Gaeilge</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/gpe">Ghanaian Pidgin</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/ha">Hausa</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/haw">Hawaiʻi</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/io">Ido</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/ig">Igbo</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/rw">Ikinyarwanda</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/iba">Jaku Iban</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/jv">Jawa</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/dtp">Kadazandusun</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/sw">Kiswahili</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/ht">Kreyòl ayisyen</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/la">Latina</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/lb">Lëtzebuergesch</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/liv">Līvõ kēļ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/mad">Madhurâ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/mt">Malti</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/mrh">Mara</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/mwl">Mirandés</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/nap">Napulitano</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/nl">Nederlands</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/nds-nl">Nedersaksies</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/frr">Nordfriisk</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/pih">Norfuk / Pitkern</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/pap-aw">Papiamento (Aruba)</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/pap">Papiamentu</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/kaa">Qaraqalpaqsha</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/qu">Runa Simi</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/de-ch">Schweizer Hochdeutsch</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/st">Sesotho</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/tn">Setswana</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/loz">Silozi</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/so">Soomaaliga</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/su">Sunda</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/shi">Taclḥit</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/tl">Tagalog</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/kab">Taqbaylit</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/vi">Tiếng Việt</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/kcg">Tyap</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/tk">Türkmençe</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/tr">Türkçe</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/vo">Volapük</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/wo">Wolof</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/yo">Yorùbá</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/diq">Zazaki</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/ast">asturianu</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/az">azərbaycanca</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/bs">bosanski</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/br">brezhoneg</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/ca">català</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/sn">chiShona</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/tum">chiTumbuka</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/co">corsu</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/dag">dagbanli</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/da">dansk</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/et">eesti</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/es">español</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/ext">estremeñu</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/eu">euskara</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/ee">eʋegbe</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/fr">français</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/fo">føroyskt</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/gl">galego</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/hsb">hornjoserbsce</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/hr">hrvatski</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/ia">interlingua</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/zu">isiZulu</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/it">italiano</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/kea">kabuverdianu</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/csb">kaszëbsczi</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/ku">kurdî</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/jbo">la .lojban.</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/lv">latviešu</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/lt">lietuvių</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/hu">magyar</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/nb">norsk bokmål</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/nn">norsk nynorsk</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/oc">occitan</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/uz">oʻzbekcha / ўзбекча</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/pl">polski</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/pt">português</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/pt-br">português do Brasil</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/ro">română</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/sc">sardu</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/sq">shqip</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/scn">sicilianu</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/sk">slovenčina</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/sl">slovenščina</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/sh">srpskohrvatski / српскохрватски</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/fi">suomi</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/sv">svenska</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/roa-tara">tarandíne</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/crh-ro">tatarşa</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/tet">tetun</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/tok">toki pona</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/tly">tolışi</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/vec">vèneto</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/vro">võro</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/ang">Ænglisc</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/is">íslenska</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/cs">čeština</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/szl">ślůnski</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/el">Ελληνικά</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/av">авар</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/ba">башҡортса</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/be">беларуская</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/be-tarask">беларуская (тарашкевіца)</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/bg">български</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/inh">гӀалгӀай</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/dlg">долган тыла</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/os">ирон</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/krc">къарачай-малкъар</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/ky">кыргызча</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/lbe">лакку</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/mk">македонски</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/ce">нохчийн</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/rue">русиньскый</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/rsk">руски</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/ru">русский</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/sah">саха тыла</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/cu">словѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/sr">српски / srpski</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/tt-cyrl">татарча</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/tt">татарча / tatarça</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/tg">тоҷикӣ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/tyv">тыва дыл</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/udm">удмурт</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/uk">українська</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/myv">эрзянь</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/uz-cyrl">ўзбекча</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/kk">қазақша</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/hy">հայերեն</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/yi">ייִדיש</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/he">עברית</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/ug">ئۇيغۇرچە / Uyghurche</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/ur">اردو</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/ar">العربية</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/ms-arab">بهاس ملايو</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/azb">تۆرکجه</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/arq">جازايرية</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/bcc">جهلسری بلوچی</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/bgn">روچ کپتین بلوچی</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/skr">سرائیکی</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/sd">سنڌي</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/fa">فارسی</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/lrc">لۊری شومالی</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/lki">لەکی</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/mzn">مازِرونی</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/arz">مصرى</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/pnb">پنجابی</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/ps">پښتو</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/ckb">کوردی</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/ks-arab">کٲشُر</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/khw">کھوار</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/anp">अंगिका</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/awa">अवधी</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/ne">नेपाली</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/pi">पालि</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/bho">भोजपुरी</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/mag">मगही</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/mr">मराठी</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/mai">मैथिली</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/sa">संस्कृतम्</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/hi">हिन्दी</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/as">অসমীয়া</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/bn">বাংলা</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/pa">ਪੰਜਾਬੀ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/gu">ગુજરાતી</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/or">ଓଡ଼ିଆ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/ta">தமிழ்</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/te">తెలుగు</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/kn">ಕನ್ನಡ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/ml">മലയാളം</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/si">සිංහල</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/th">ไทย</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/lo">ລາວ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/bo">བོད་ཡིག</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/shn">တႆး</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/blk">ပအိုဝ်ႏဘာႏသာႏ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/kjp">ဖၠုံလိက်</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/mnw">ဘာသာမန်</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/my">မြန်မာဘာသာ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/rki">ရခိုင်</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/xmf">მარგალური</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/ka">ქართული</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/am">አማርኛ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/km">ភាសាខ្មែរ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/tdd">ᥖᥭᥰ ᥖᥬᥲ ᥑᥨᥒᥰ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/sat">ᱥᱟᱱᱛᱟᱲᱤ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/zgh">ⵜⴰⵎⴰⵣⵉⵖⵜ ⵜⴰⵏⴰⵡⴰⵢⵜ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/ryu">うちなーぐち</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/zh">中文</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/wuu">吴语</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/hak">客家語 / Hak-kâ-ngî</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/lzh">文言</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/ja">日本語</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/yue">粵語</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/gan">贛語</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/nan">閩南語 / Bân-lâm-gí</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/syl">ꠍꠤꠟꠐꠤ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/mni">ꯃꯤꯇꯩ ꯂꯣꯟ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/ko-kp">조선말</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Main_Page/ko">한국어</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:list {"anchor":"footer-info"} -->
+<ul id="footer-info" class="wp-block-list"><!-- wp:list-item -->
+<li>This page was last edited on 15 March 2026, at 05:23.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Text is available under the <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike License</a>; additional terms may apply. See <a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use">Terms of Use</a> for details.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:list {"anchor":"footer-places"} -->
+<ul id="footer-places" class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy">Privacy policy</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/wiki/Meta:About">About Meta-Wiki</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:General_disclaimer">Disclaimers</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_Legal_and_Safety_Contact_Information">Legal &amp; safety contacts</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct">Code of Conduct</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://developer.wikimedia.org/">Developers</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://stats.wikimedia.org/#/meta.wikimedia.org">Statistics</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement">Cookie statement</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://meta.wikimedia.org/w/index.php?title=Main_Page&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:list {"anchor":"footer-icons"} -->
+<ul id="footer-icons" class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://www.wikimedia.org/"><img width="25" height="25" src="https://meta.wikimedia.org/static/images/footer/wikimedia.svg" alt="Wikimedia Foundation"></a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.mediawiki.org/"></a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
 <!-- wp:table -->
 <figure class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td>สารานุกรม<a href="https://th.wikipedia.org/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Crystal_Project_Babelfish.png/120px-Crystal_Project_Babelfish.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" srcset="//thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Crystal_Project_Babelfish.png/250px-Crystal_Project_Babelfish.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" alt="หมวดหมู่:ธรรมชาติ" height="64" width="64"></a><strong><a href="https://th.wikipedia.org/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B8%98%E0%B8%A3%E0%B8%A3%E0%B8%A1%E0%B8%8A%E0%B8%B2%E0%B8%95%E0%B8%B4">ธรรมชาติ</a></strong><a href="https://th.wikipedia.org/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B8%B0"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Crystal_Clear_app_gimp.png/120px-Crystal_Clear_app_gimp.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" srcset="//upload.wikimedia.org/wikipedia/commons/9/93/Crystal_Clear_app_gimp.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail_unscaled 2x" alt="หมวดหมู่:ศิลปะ" height="64" width="64"></a><strong><a href="https://th.wikipedia.org/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B8%A8%E0%B8%B4%E0%B8%A5%E0%B8%9B%E0%B8%B0">ศิลปะ</a></strong><a href="https://th.wikipedia.org/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Crystal_Clear_app_katomic.png/120px-Crystal_Clear_app_katomic.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" srcset="//upload.wikimedia.org/wikipedia/commons/6/6a/Crystal_Clear_app_katomic.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail_unscaled 2x" alt="หมวดหมู่:วิทยาศาสตร์" height="64" width="64"></a><strong><a href="https://th.wikipedia.org/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B2%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C">วิทยาศาสตร์</a></strong><a href="https://th.wikipedia.org/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Crystal_Clear_app_internet.png/120px-Crystal_Clear_app_internet.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" srcset="//upload.wikimedia.org/wikipedia/commons/5/57/Crystal_Clear_app_internet.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail_unscaled 2x" alt="หมวดหมู่:ภูมิศาสตร์" height="64" width="64"></a><strong><a href="https://th.wikipedia.org/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C">ภูมิศาสตร์</a></strong><a href="https://th.wikipedia.org/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%A2%E0%B8%B5"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Crystal_Clear_app_kcmmemory.png/120px-Crystal_Clear_app_kcmmemory.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" srcset="//upload.wikimedia.org/wikipedia/commons/4/4d/Crystal_Clear_app_kcmmemory.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail_unscaled 2x" alt="หมวดหมู่:เทคโนโลยี" height="64" width="64"></a><strong><a href="https://th.wikipedia.org/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B9%80%E0%B8%97%E0%B8%84%E0%B9%82%E0%B8%99%E0%B9%82%E0%B8%A5%E0%B8%A2%E0%B8%B5">เทคโนโลยี</a></strong><a href="https://th.wikipedia.org/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Religious_syms.png/120px-Religious_syms.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" srcset="//thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Religious_syms.png/250px-Religious_syms.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" alt="หมวดหมู่:ความเชื่อ" height="64" width="64"></a><strong><a href="https://th.wikipedia.org/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD">ความเชื่อ</a></strong><a href="https://th.wikipedia.org/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Crystal_Clear_app_kalarm.png/120px-Crystal_Clear_app_kalarm.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" srcset="//upload.wikimedia.org/wikipedia/commons/6/64/Crystal_Clear_app_kalarm.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail_unscaled 2x" alt="หมวดหมู่:ประวัติศาสตร์" height="64" width="64"></a><strong><a href="https://th.wikipedia.org/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B9%8C">ประวัติศาสตร์</a></strong><a href="https://th.wikipedia.org/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%A1"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Crystal_Clear_app_Login_Manager.svg/120px-Crystal_Clear_app_Login_Manager.svg.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" srcset="//thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Crystal_Clear_app_Login_Manager.svg/250px-Crystal_Clear_app_Login_Manager.svg.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" alt="หมวดหมู่:สังคม" height="64" width="64"></a><strong><a href="https://th.wikipedia.org/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%84%E0%B8%A1">สังคม</a></strong><a href="https://th.wikipedia.org/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Emblem_of_Thailand.svg/120px-Emblem_of_Thailand.svg.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" srcset="//thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Emblem_of_Thailand.svg/250px-Emblem_of_Thailand.svg.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" alt="หมวดหมู่:ประเทศไทย" height="68" width="64"></a><strong><a href="https://th.wikipedia.org/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%A7%E0%B8%94%E0%B8%AB%E0%B8%A1%E0%B8%B9%E0%B9%88:%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84%E0%B8%97%E0%B8%A2">ประเทศไทย</a></strong><a href="https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B9%88%E0%B8%AD%E0%B8%A2"><img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Portal.svg/120px-Portal.svg.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail" srcset="//thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Portal.svg/250px-Portal.svg.png?utm_source=th.wikipedia.org&amp;utm_campaign=parser&amp;utm_content=thumbnail 2x" alt="วิกิพีเดีย:สถานีย่อย" height="64" width="72"></a><strong><a href="https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%B4%E0%B8%81%E0%B8%B4%E0%B8%9E%E0%B8%B5%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2:%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%99%E0%B8%B5%E0%B8%A2%E0%B9%88%E0%B8%AD%E0%B8%A2">สถานีย่อย</a></strong></td></tr></tbody></table></figure>
 <!-- /wp:table -->
