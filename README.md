@@ -1,4 +1,350 @@
 # 17.8981118-101.6663747
+<!-- wp:paragraph -->
+<p><a href="https://www.microsoft.com/th-th/software-download/windows11#mainContent">ข้ามไปที่เนื้อหาหลัก</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"linkDestination":"custom"} -->
+<figure class="wp-block-image"><a class="uhf-microsoft-logo" href="https://www.microsoft.com/"><img src="https://uhf.microsoft.com/images/microsoft/RE1Mu3b.png" alt="Microsoft"/></a></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.microsoft.com/th-th/software-download">ดาวน์โหลดซอฟต์แวร์</a>Windowsเพิ่มเติมMicrosoft ทั้งหมด</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":210,"sizeSlug":"large","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-large"><img src="https://myloei.wordpress.com/wp-content/uploads/2026/09/image.png?w=96" alt="" class="wp-image-210"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading"></h1>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">ดาวน์โหลด Windows 11</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>&nbsp;&nbsp;(รุ่นปัจจุบัน: Windows 11 2025 Update l เวอร์ชัน 25H2)</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>มี 3 ตัวเลือกด้านล่างสำหรับการติดตั้งหรือสร้างสื่อ Windows 11 ลองดูที่แต่ละรายการเพื่อกำหนดตัวเลือกที่ดีที่สุดสำหรับคุณ<br><br>ก่อนติดตั้ง ให้ตรวจสอบ&nbsp;<strong><a target="_blank" href="https://aka.ms/windowsreleasehealth" rel="noopener">ข้อมูลการเผยแพร่ของ Windows</a></strong>&nbsp;สำหรับปัญหาที่ทราบซึ่งอาจส่งผลกระทบต่ออุปกรณ์ของคุณ&nbsp;หากคุณใช้ Windows เวอร์ชันก่อนหน้า โปรดดู<a target="_blank" href="https://support.microsoft.com/en-us/windows/upgrade-to-windows-11-faq-fb6206a2-1a0f-448a-80f1-8668ee5b2bf9" rel="noopener"><strong>อัปเกรดเป็น Windows 11: คำถามที่ถามบ่อย</strong></a>&nbsp;สำหรับข้อมูลเพิ่มเติม</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"style":{"typography":{"textAlign":"center"}}} -->
+<h2 class="wp-block-heading has-text-align-center">ตัวช่วยติดตั้ง Windows 11 </h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>นี่เป็นตัวเลือกที่ดีที่สุดสำหรับการติดตั้ง Windows 11 บนอุปกรณ์ที่คุณกำลังใช้งานอยู่ คลิก&nbsp;<strong>ดาวน์โหลดตอนนี้</strong>&nbsp;เพื่อเริ่มต้น</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>หมายเหตุ: ผู้ช่วยการติดตั้ง Windows 11 ไม่ทำงานบนพีซีที่ใช้ Arm โดยใช้งานได้กับโปรเซสเซอร์ x64 เท่านั้น</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"anchor":"accordion8efc8089-7874-4fe1-a65f-8543a2e3ffe2"} -->
+<ul id="accordion8efc8089-7874-4fe1-a65f-8543a2e3ffe2" class="wp-block-list"><!-- wp:list-item -->
+<li>ก่อนที่คุณจะเริ่มใช้ตัวช่วยติดตั้ง</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><a href="https://go.microsoft.com/fwlink/?linkid=2171764">ดาวน์โหลดตอนนี้</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"style":{"typography":{"textAlign":"center"}}} -->
+<h2 class="wp-block-heading has-text-align-center">สร้างสื่อการติดตั้ง Windows 11</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>หากคุณต้องการติดตั้งอีกครั้งหรือติดตั้ง Windows 11 ติดตั้งใหม่ทั้งหมดทั้งหมดบนพีซีเครื่องใหม่หรือที่ใช้แล้ว ให้ใช้ตัวเลือกนี้เพื่อดาวน์โหลดเครื่องมือสร้างสื่อเพื่อสร้าง USB หรือ DVD ที่สามารถบูตได้</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>หมายเหตุ: ไม่สามารถใช้เครื่องมือสร้างสื่อ Windows 11 เพื่อสร้างสื่อการติดตั้งสำหรับพีซีที่ใช้ Arm ได้ โดยสามารถสร้างสื่อสำหรับโปรเซสเซอร์ x64 ได้เท่านั้น</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"anchor":"accordionf061502d-e929-468c-bce9-f3eb92ecddb3"} -->
+<ul id="accordionf061502d-e929-468c-bce9-f3eb92ecddb3" class="wp-block-list"><!-- wp:list-item -->
+<li>ก่อนที่คุณจะเริ่มใช้เครื่องมือสร้างสื่อ</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><a href="https://go.microsoft.com/fwlink/?linkid=2156295">ดาวน์โหลดตอนนี้</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"style":{"typography":{"textAlign":"center"}}} -->
+<h2 class="wp-block-heading has-text-align-center">ดาวน์โหลดดิสก์อิมเมจของ Windows 11 (ISO) สำหรับอุปกรณ์ x64</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>ตัวเลือกนี้มีไว้สำหรับผู้ใช้ที่ต้องการสร้างสื่อการติดตั้งที่สามารถบูตได้ (แฟลชไดรฟ์ USB, DVD) หรือสร้างเครื่องเสมือน (ไฟล์ .ISO) เพื่อติดตั้ง Windows 11 การดาวน์โหลดนี้เป็น ISO หลายรุ่นซึ่งใช้คีย์ผลิตภัณฑ์ของคุณเพื่อปลดล็อกรุ่นที่ถูกต้อง</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Windows 11 ISO สำหรับอุปกรณ์ Arm64 มีให้ดาวน์โหลด</strong><a target="_blank" href="https://www.microsoft.com/th-th/software-download/windows11arm64" rel="noopener"><strong>ที่นี่</strong></a>&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;เลือกดาวน์โหลด&nbsp;Windows 11 (ISO หลายรุ่นสำหรับอุปกรณ์ x64)&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"anchor":"accordion7328593f-ef21-421e-8b6c-e8c1e823f8fd"} -->
+<ul id="accordion7328593f-ef21-421e-8b6c-e8c1e823f8fd" class="wp-block-list"><!-- wp:list-item -->
+<li>ก่อนที่คุณจะเริ่มดาวน์โหลด ISO</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>ดาวน์โหลดตอนนี้</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"anchor":"accordione3ac7425-e0ca-4025-b3bc-5601e795945c"} -->
+<ul id="accordione3ac7425-e0ca-4025-b3bc-5601e795945c" class="wp-block-list"><!-- wp:list-item -->
+<li>ตัวเลือกการดาวน์โหลดเพิ่มเติม</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>*การใช้เครื่องมือสร้างสื่อบนเว็บไซต์นี้ของคุณอยู่ภายใต้&nbsp;<a target="_blank" href="https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx" rel="noopener"><strong>ข้อกำหนดการใช้ของ Microsoft</strong></a>&nbsp;สำหรับเว็บไซต์นี้</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center"} -->
+<figure class="wp-block-image aligncenter"><img src="https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/sds-windows11-laptop-fy24?scl=1&amp;fmt=png-alpha" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">มีอะไรใหม่</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://www.microsoft.com/surface/devices/surface-pro">Surface Pro</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.microsoft.com/surface/devices/surface-laptop">Surface Laptop</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.microsoft.com/th-th/microsoft-copilot/organizations?icid=DSM_Footer_CopilotOrganizations">Copilot สำหรับองค์กร</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.microsoft.com/th-th/microsoft-copilot/for-individuals?form=MY02PT&amp;OCID=GE_web_Copilot_Free_868g3t5nj">Copilot สำหรับใช้ส่วนตัว</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.microsoft.com/th-th/microsoft-365">Microsoft 365</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.microsoft.com/th-th/microsoft-products-and-apps">สำรวจผลิตภัณฑ์ Microsoft</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.microsoft.com/th-th/windows/apps-for-windows?icid=DSM_Footer_WhatsNew_Windows11apps">แอป Windows 11</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Microsoft Store</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://account.microsoft.com/">โพรไฟล์บัญชีผู้ใช้</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.microsoft.com/th-th/download">ศูนย์ดาวน์โหลด</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://go.microsoft.com/fwlink/p/?LinkID=824764&amp;clcid=0x41E">คืนสินค้า</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://account.microsoft.com/orders">ติดตามการสั่งซื้อ</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">การศึกษา</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://www.microsoft.com/education">Microsoft Education</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.microsoft.com/education/devices/overview">อุปกรณ์สำหรับการศึกษา</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.microsoft.com/education/products/teams">Microsoft Teams สำหรับการศึกษา</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.microsoft.com/education/products/microsoft-365">Microsoft 365 Education</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.microsoft.com/education/products/office">Office Education</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://education.microsoft.com/">การฝึกอบรมและการพัฒนานักการศึกษา</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.microsoft.com/en-us/store/b/education">ข้อตกลงสำหรับนักศึกษาและผู้ปกครอง</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://azure.microsoft.com/free/students/">Azure สำหรับนักศึกษา</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">ธุรกิจ</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://www.microsoft.com/th-th/ai?icid=DSM_Footer_AI">Microsoft AI</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.microsoft.com/th-th/security">การรักษาความปลอดภัยของ Microsoft</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://azure.microsoft.com/">Azure</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.microsoft.com/th-th/dynamics-365">Dynamics 365</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.microsoft.com/th-th/microsoft-365/business">Microsoft 365</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://about.ads.microsoft.com/en?icid=DSM_Footer_Business_MicrosoftAdvertising">Microsoft Advertising</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.microsoft.com/th-th/microsoft-365-copilot?icid=DSM_Footer_Microsoft365Copilot">Microsoft 365 Copilot</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.microsoft.com/th-th/microsoft-teams/group-chat-software">Microsoft Teams</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">นักพัฒนาและไอที</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://developer.microsoft.com/en-us/?icid=DSM_Footer_Developer_Developer">นักพัฒนาของ Microsoft</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://learn.microsoft.com/">Microsoft Learn</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.microsoft.com/software-development-companies/offers-benefits/isv-success?icid=DSM_Footer_SupportAIMarketplace&amp;ocid=cmm3atxvn98">รองรับแอปตลาด AI</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://techcommunity.microsoft.com/">Microsoft Tech Community</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://marketplace.microsoft.com/?icid=DSM_Footer_Marketplace&amp;ocid=cmm3atxvn98">Microsoft Marketplace</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.microsoft.com/th-th/power-platform">Microsoft Power Platform</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.microsoft.com/software-development-companies?icid=DSM_Footer_SoftwareCompanies&amp;ocid=cmm3atxvn98">บริษัทซอฟต์แวร์ต่างๆ</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://visualstudio.microsoft.com/">Visual Studio</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">บริษัท</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://careers.microsoft.com/">ตำแหน่งงาน</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://news.microsoft.com/source/asia/region/thailand-th/?lang=th&amp;icid=DSM_Footer_Company_CompanyNews">ข่าวบริษัท</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.microsoft.com/th-th/privacy?icid=DSM_Footer_Company_Privacy">สิทธิ์ส่วนบุคคลที่ Microsoft</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.microsoft.com/investor/default.aspx">นักลงทุน</a></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><a href="https://www.microsoft.com/th-th/software-download/locale">ไทย (ไทย)</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://aka.ms/yourcaliforniaprivacychoices">ตัวเลือกความเป็นส่วนตัวของคุณ</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://go.microsoft.com/fwlink/?linkid=2259814">ความเป็นส่วนตัวด้านสุขภาพของผู้บริโภค</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li><a href="https://support.microsoft.com/contactus/?ln=th">ติดต่อเรา</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://go.microsoft.com/fwlink/?LinkId=248681">ความเป็นส่วนตัว</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://go.microsoft.com/fwlink/?LinkID=530144">ข้อตกลงการใช้งาน</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://www.microsoft.com/trademarks">เครื่องหมายการค้า</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><a href="https://choice.microsoft.com/">เกี่ยวกับโฆษณาของเรา</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>© Microsoft 2026</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph -->
+
 <!-- wp:list -->
 <ul class="wp-block-list"><!-- wp:list-item -->
 <li>resources</li>
